@@ -1,0 +1,3 @@
+management:
+  port: 8081
+  context-path: /manage
